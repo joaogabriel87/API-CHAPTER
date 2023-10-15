@@ -253,3 +253,4 @@ C:\Users\joaga\OneDrive\Área de Trabalho\ChapterAPI\Chapter-API\obj\Debug\net7.
 C:\Users\joaga\OneDrive\Área de Trabalho\ChapterAPI\Chapter-API\obj\Debug\net7.0\Chapter-API.pdb
 C:\Users\joaga\OneDrive\Área de Trabalho\ChapterAPI\Chapter-API\obj\Debug\net7.0\Chapter-API.genruntimeconfig.cache
 C:\Users\joaga\OneDrive\Área de Trabalho\ChapterAPI\Chapter-API\obj\Debug\net7.0\ref\Chapter-API.dll
+C:\Users\joaga\OneDrive\Área de Trabalho\ChapterAPI\Chapter-API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
